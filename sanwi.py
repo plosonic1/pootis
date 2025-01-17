@@ -70,4 +70,4 @@ async def weapon(ctx):
     await ctx.send(random.choice(weapons))
 
 
-bot.run('MTMyNDU0ODE0MzUwMDc1OTA1MQ.Gg8Sfz.3Atfyn0O4PZK9B4YAG0Dio9HGITyB2CNJg8ksM')
+bot.run('aqui va el token ese')
